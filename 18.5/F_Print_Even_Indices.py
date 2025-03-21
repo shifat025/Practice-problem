@@ -11,3 +11,5 @@ print(' '.join(map(str, reversed(even_indexed))))
 
 
 
+
+
