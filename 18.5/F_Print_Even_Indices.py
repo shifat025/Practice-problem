@@ -9,5 +9,3 @@ for i in range(n):
 print(' '.join(map(str, reversed(even_indexed))))
     
 
-
-
